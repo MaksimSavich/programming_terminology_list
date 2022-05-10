@@ -1,0 +1,97 @@
+ASCII
+A-0 Abend Absolute address Absolute Coding Access violation ACM ActionScript Action statement ActiveX Ada Adaptive technology Add ADO Advanced SCSI Programming Interface Aggregate Agile development methods Agile Manifesto AJAX Alert Algol Algorithm Allocate Altair BASIC Ambient Occlusion AOP API APK Applet Argument Arithmetic operator Array Array of pointers ASCII ASM ASP ASPI Assembler Assembly Assembly language Associative operation Asynchronous JavaScript and XML AutoHotkey Automata-based programming Automated unit testing Automation
+Babel Back-end Back-face culling Background thread Backpropagation neural network Base address Basic Batch file Batch job BCPL Bean BeanShell Binary Search Bind Bit shift Bitwise operator Block Block-based programming Block-level element BOM Bool Boolean Boolean data type Bracket Branch Brooks Browse Bug Bugfairy Bug tracking Build computer Bytecode
+Curly bracket
+C C++ C# Call Callback Camel book CamelCase Capture Captured variable CC Cell style CGI Chaos model Char Character code Character encoding Character set Circuit satisfiability problem Class Class Classpath Clojure CLOS Closing block Closure CLR COBOL Cocoa Cocoa touch Code Code page Code refactoring CoffeeScript Command Command language Comment Common business oriented language Common Gateway Interface Commutative operation Compilation Compile Compiler Complementarity Component Compute Computer instructions Computer science Concat Concatenate Concatenation Concurrency Condition Conditional expression Conditional statement Constant Constructor Constructor chaining Content migration Control flow CPAN CPL Crapplet CS CSAT C sharp CSS CSS compressor CSS editor Curly bracket Curry CVS Cygwin
+Data type
+D DarkBASIC Dart Data-flow analysis Data flow diagram Dataflow Programming Datalog Data source Data structure Data type DDE DDK Dead code Debug Debugger Debugging Declaration Declarative programming Declare Decompiler Decrement Deductive database Delimiter Demote Dense matrix Dependent variable Deprecated Dereference operator Developer DHTML Die Diff Direct address Disassembler Discrete optimization Div Django DML Do DOM Dragon book Dribbleware Dump Dword Dylan programming language Dynamic binding Dynamic dump
+Eclipse ECMAScript Eight queens problem Element Elixir Ellipsis Else Else if Elsif Embedded Java Encapsulation Enclosing block Encode Endian Endless loop EOF Epoch Eq Equal Erlang Error Errorlevel Esac Esc Escape Escape character Escape sequence Eval Event Event-driven programming Event handler Event listener Exception Exception handling Exec Exists Exit status Exponent Exponential backoff Expression
+F# Factorial False False positive Fifth generation language First-class object First generation language Flag Flat file Floating-point For Foreach Foreign key Forth Forth generation language FORTRAN F programming language Framework Front end Full stack developer Function Functional programming Function call Fuzz testing
+Game of Life Gang of four Garbage collection Gaussian pyramid GCC Ge General-purpose language Generation languages Genetic programming GIGO Git GitHub Glitch Glob Glue code Go Golang Go language Googolplex Goto GPL Grasshopper Greedy Greedy matching GT GTK GW-BASIC
+Hackathon HAL Hard code Hash Haskell HDML Heap Hello world Heroku Heuristic evaluation Hex editor Hiew High-level language HTML Human error Hungarian notation Hwclock Hypertext Markup Language
+HTML
+IDE Idempotence If else If statement Immutable object Imperative programming Implicit parallelism Increment Indirect address Indirection operator Inherent error Inheritance Inline Input/output statement Instance Instantiation Instructions Int Integer Integrated Development Environment IntelliJ IDEA Intermediate language Interpreted Interpreter Invalid IOCCC IPC ISAPI Iteration
+Java JavaBean Javac Java champion Java EE JavaFX Java ME Java Native Interface Java reserved words JavaScript JavaScriptCore Javax JBuilder JCL JDBC JDK JHTML JIL JIT JNI JRE JScript JSON JSP JSR Julia Jupyter JVM
+Karel Kit Kludge Kluge Knights of Lambda Calculus Kotlin
+Label Lambda calculus Language Language processor Lazy matching Le Lexical analysis Lexicon Library Life cycle Linker LISP Literal Literal string LiveScript LLVM Local optimum Logical operation Logic programming LOGO Lookup table Loony bin Loop Loophole Loosely typed language Low-level language LT Lua LUT
+m1m0 Machine language Magic quotes Map Markup language Math Matlab Mbean Memoization Mercurial Meta Metacharacter Metaclass Metalanguage Meta tag Method Method overloading Metro Microsoft BASIC Middleware Mimo Mod Modula Modula-2 Modular programming Module Modulo Monkey testing Monte Carlo Method MSDN MSVC Multi-pass compiler Multiply MUMPS Mutex My
+NaN
+Native compiler
+Native language
+Natural language
+NBSP
+NDA
+Ne
+Nest
+Nested function
+Nested loops join
+.NET
+Newline
+Nil pointer
+Nim
+Nimrod
+Node.js
+Nodelist
+Noncontiguous data structure
+Non-disclosure agreement
+Nonexecutable statement
+NO-OPeration instructions
+NP-C
+NP-complete
+Null
+Null character
+Null pointer
+NumPy NBSP
+Oberon Obfuscated code Obfuscation Object Object code Object file Objective-C Object module Object-oriented Object-oriented programming Obtuse OCaml Octave ODBC One-pass compiler OnMouseOver OOP Opcode Open Database Connectivity OpenGL polygon Operand Operation code Operator Operator associatively Operator precedence Order of operations OR operator Overflow error Overload
+Pipe Program
+Programming language Package Parenthesis Parse Pascal Pascal case Pastebin P-code PDL PEAR Perl Persistent memory PersonalJava PHP Phrase tag Pick Pickling PicoJava Pipe Pipeline Pixel shader POD Pointer Polymorphism Pop Portable language Positional parameter Print Printf Private Private variable Procedural language Procedure Process Program Program generator Program listing Programmable Programmer Programming Programming in logic Programming language Programming tool Prolog Properties Pseudo-class Pseudocode Pseudolanguage Pseudo-operation Pseudorandom Public Pull PureBasic Push Python Pythonic Python pickling
+Qi QT Quick-and-dirty
+Regex
+Race condition
+Racket
+RAD
+Random
+Random seed
+RCS
+RCW
+RDF
+React
+React Native
+Real number
+Recompile
+Recursion
+Recursive
+Regex
+Regular expression
+Reia
+Relational algebra
+Religion of Chi
+REM
+Remark
+Repeat counter
+Repetition
+REPL
+Reserved character
+Reserved word
+Resource Description Framework
+Return address
+Return statement
+Reverse engineering
+Revision control
+ROM BASIC
+Routine
+Routing algorithm
+RPG
+R programming language
+Ruby
+Run time
+Runtime callable wrapper
+Rust
+Safe font Sandbox Say Scala Scalar Scanf Schema matching Scheme programming language Scratch Script SDK Second generation language Section Security Descriptor Definition Language Seed Segfault Semaphore Separator Sequence Server-side Server-side scripting Servlet S-expression SGML Shebang Shell Shell scripts Shift Short-circuit operator Signedness Simula Simulated annealing Single step Smalltalk SMIL Snippet SOAP Socket Soft Software development phases Software development process Software engineering Software library Software life cycle Software release life cycle Source Source code Source computer Source data SourceForge Spaghetti code Sparse matrix Sparsity Special purpose language SPL Spooling SQL SQLite Stack Stack pointer Standard attribute Statement Stdin Stream processing String Strongly typed language Stubroutine Stylesheet Submit Subprogram Subroutine Subscript Substring Subtract Subversion Superclass Swift Switch statement Syntactic sugar Syntax Syntax error System development Systems engineer Systems Programming Language
+Tail recursion Tcl Tk Ternary Ternary operator Tessellation Theoretical computer science Third-generation programming language Thread Thunk Tk Token ToolboX Transcompiler True True BASIC Trunk Tuple Turbo Pascal Turing completeness
+Udacity UInt8 UInt16 UInt32 Unary operator Undefined Undefined variable Underflow Unescape Unit test Unshift
+Value Var Variable Variable expression VB VBScript Vector VHDL VIM Visual Basic Visual Studio Void Vue Vue.js
+Wasm Waterfall model WDF WebAssembly Web development WebGL While Whole number Windows Driver Kit WML Workspace
+XML XNA XOR operator XOXO XSL XSLT
+YAML Y combinator
+Z-buffering Zombie
